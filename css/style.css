@@ -133,16 +133,16 @@ body{
 
 .navbar-default .navbar-brand{
 	 color: #9e0060;
-    font-size: 59px;
-    margin: 18px;
-    margin-top: 68px;
+       font-size: 46px;
+    	margin: 34px;
+   	 margin-top: 71px;
 
 	
 }
 
 .navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus{
 	color:#9e0060;
-	font-size: 59px;
+	font-size: 46px;
     
 }
 .nav-ul{
@@ -155,8 +155,9 @@ body{
 
 .navbar-default .navbar-nav > li > a{
 	color: #9e0060;
-	margin:15px;
-	font-size:20px;
+	margin: 13px;
+       font-size: 20px;
+      padding-right: 25px;
 	
 }
 .navbar-default .navbar-nav > li > a:hover{
